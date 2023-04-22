@@ -1,0 +1,4 @@
+detectron2.egg==info
+matplotlib==3.6.3
+numpy==1.24.2
+opencv_python==4.7.0.68
